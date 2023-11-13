@@ -1,7 +1,7 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
-    "unityGameId": "9999999",
+    "adNetwork": "unity",
+    "unityGameId": "5470450",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",

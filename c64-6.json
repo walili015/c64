@@ -1,7 +1,7 @@
 {
   "AdsController": {
-    "adNetwork": "unity",
-    "unityGameId": "5470450",
+    "adNetwork": "admob",
+    "unityGameId": "999999",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
